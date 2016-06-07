@@ -1,10 +1,10 @@
-#### w1d2 Bonus - Debug HTML Beer List
+#### w1d2 Homework
 
 My first homework assignment at TIY.
 
   * Reproduce simplified version of [IronNews](https://github.com/jjrajani/w1d2_HW/tree/master/HW_IronNews)
-  * Debug HTML Beer List (Bonus)
+  * Debug HTML Beer List ([Bonus](https://github.com/jjrajani/w1d2_HW/tree/master/Bonus))
 
 :tada: :tada: :sunglasses: :tada: :tada:
 
-![Cause why not](http://placecage.com/200/200)
+![Cause why not](http://lorempixel.com/200/200/animals)
