@@ -1,0 +1,116 @@
+body{
+  max-width: 960px;
+  margin-left: 10%;
+}
+
+.header{
+  background-color: rgb(141, 144, 161);
+  padding: 10px;
+}
+
+.logo {
+  color: white;
+  border: solid white 1px;
+  font-weight: bold;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.brand {
+  font-weight: bold;
+}
+
+.nav-links {
+  color: white;
+}
+
+.nav-links a{
+  text-decoration: none;
+  color: black;
+  margin: 0 3px;
+}
+
+a.login {
+  float: right;
+}
+
+ol {
+  margin: 0;
+  background-color: rgb(237, 239, 242)
+}
+
+ul {
+  padding-left: 15px;
+}
+
+.first {
+  list-style-image: url("https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif")
+}
+
+.second {
+  list-style: none;
+  font-size: .8em;
+}
+
+.grayed-out,
+li.first a{
+  color: rgb(133, 133, 132);
+}
+
+li.first a {
+  font-size: .9em;
+  margin-left: 5px;
+}
+
+.more {
+  padding-bottom: 10px;
+}
+
+a.more {
+  text-decoration: none;
+  padding-bottom: 20px;
+}
+
+li.invisible {
+  color: transparent;
+}
+
+li.more {
+  list-style: none;
+}
+
+footer {
+  border-top: solid 2px rgb(133, 136, 154);
+  background-color: rgb(237, 239, 242);
+  margin: auto;
+}
+
+footer a {
+  text-decoration: none;
+  color: black;
+  margin: calc(100%-704px);
+}
+
+
+nav.footer-links {
+  padding: 20px;
+  text-align: center;
+}
+
+label.search-box {
+  padding: 20px;
+  text-align: center;
+}
+
+.search {
+  text-align: center;
+}
+
+
+
+
+
+
+
