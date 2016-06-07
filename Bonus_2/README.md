@@ -1,4 +1,4 @@
-#### [w1d2](https://github.com/jjrajani/w1d2_HW) Homework
+#### [w1d2](https://github.com/jjrajani/w1d2_HW) Homework - CSS Bonus
 
 My first homework assignment at TIY.
 
