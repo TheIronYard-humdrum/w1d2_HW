@@ -1,4 +1,4 @@
-#### w1d2 Homework - IronNews
+#### [w1d2](https://github.com/jjrajani/w1d2_HW) Homework - IronNews
 
 My first homework assignment at TIY.
 
