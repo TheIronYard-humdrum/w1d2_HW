@@ -8,4 +8,4 @@ My first homework assignment at TIY.
 
 :smiley: :smiley: :smiley:
 
-![Cause why not](http://lorempixel.com/200/200/animals)
+![Cause why not](http://lorempixel.com/600/600/absract)
