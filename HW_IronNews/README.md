@@ -8,8 +8,8 @@ My first homework assignment at TIY.
 
 
 
-Just Because.. :sunglasses: :sunglasses: :sunglasses:
+SUSHI :fish: :tropical_fish: :whale: :octopus:
 
-![Just Because!](http://fillmurray.com/200/300)
+![SUSHI!](http://lorempixel.com/image_output/food-q-c-640-480-8.jpg)
 
 

@@ -8,4 +8,4 @@ My first homework assignment at TIY.
 
 :smiley: :smiley: :smiley:
 
-![Cause why not](http://lorempixel.com/200/200/animals)
+![What?](http://i1189.photobucket.com/albums/z432/Gemini-Dragon-Gifs/tumblr_lrcgh5fa6g1qgzqq6.gif)

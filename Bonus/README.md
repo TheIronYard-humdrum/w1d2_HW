@@ -8,4 +8,4 @@ My first homework assignment at TIY.
 
 :tada: :tada: :sunglasses: :tada: :tada:
 
-![Cause why not](http://placecage.com/200/200)
+![Cookies](https://media.giphy.com/media/N6KsLynM7nA40/giphy.gif)
