@@ -3,7 +3,8 @@
 My first homework assignment at TIY.
 
   * Reporduce simplified version of IronNews.
-  * Debug HTML Beer List [(Bonus)](https://github.com/jjrajani/w1d2_HW/tree/master/Bonus)
+  * Debug HTML Beer List [Bonus](https://github.com/jjrajani/w1d2_HW/tree/master/Bonus)
+  * Extra CSS Bonus - [Positioning](https://github.com/jjrajani/w1d2_HW/tree/master/Bonus_2)
 
 
 
