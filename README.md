@@ -8,4 +8,4 @@ My first homework assignment at TIY.
 
 :smiley: :smiley: :smiley:
 
-![Cause why not](http://lorempixel.com/600/600/food)
+![FOOD!!!](http://lorempixel.com/image_output/food-q-c-640-480-9.jpg)
