@@ -8,7 +8,7 @@ My first homework assignment at TIY.
 
 
 
-SUSHI :fish: :tropical_fish: :whale: :octopus:
+**SUSHI!!!** :fish: :tropical_fish: :whale: :octopus:
 
 ![SUSHI!](http://lorempixel.com/image_output/food-q-c-640-480-8.jpg)
 
