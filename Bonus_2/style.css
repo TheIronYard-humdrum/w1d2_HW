@@ -1,0 +1,67 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+          border: solid green 1px;
+}
+
+.container {
+  position: relative;
+  max-width: 980px;
+  margin: auto;
+}
+
+.first,
+.second,
+.third {
+  position: relative;
+  display: inline-block;
+  width: 33%;
+  height: 400px;
+}
+
+.flip {
+  position: absolute;
+  right: 0;
+  height: 50px;
+  width: 50px;
+}
+
+.shirt-box {
+  position: relative;
+  height: 350px;
+}
+
+.one-fifth {
+  position:absolute;
+  bottom: 0;
+  display: inline-block;
+  width: 20%;
+  height:50px;
+  margin: auto;
+}
+
+.two {
+  left:20%;
+}
+
+.three {
+  left:40%;
+}
+
+.four {
+  left:60%;
+}
+
+.five {
+  left:80%;
+}
+
+.l {
+  float: left;
+}
+
+.r {
+  float: right;
+}
+
