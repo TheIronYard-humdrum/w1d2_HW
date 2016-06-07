@@ -1,4 +1,4 @@
-#### [w1d2](https://github.com/jjrajani/w1d2_HW) Bonus - Debug HTML Beer List
+#### [w1d2](https://github.com/jjrajani/w1d2_HW) Homework - Bonus Beer List
 
 My first homework assignment at TIY.
 
