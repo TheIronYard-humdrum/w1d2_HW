@@ -6,6 +6,6 @@ My first homework assignment at TIY.
   * Debug HTML Beer List [Bonus](https://github.com/jjrajani/w1d2_HW/tree/master/Bonus)
   * Extra CSS Bonus - Positioning
 
-:smiley: :smiley: :smiley:
+:dizzy_face: :dizzy_face: :dizzy_face:
 
 ![What?](http://i1189.photobucket.com/albums/z432/Gemini-Dragon-Gifs/tumblr_lrcgh5fa6g1qgzqq6.gif)
