@@ -143,4 +143,6 @@
   border: solid rgb(128, 186, 230) 3px;
 }
 
-
+p {
+  position: relative;
+}

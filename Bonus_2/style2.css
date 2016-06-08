@@ -1,0 +1,55 @@
+* {
+  background-color: orange;
+  border: solid blue 1px;
+  overflow: auto;
+  box-sizing: : border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+.container {
+  max-width: 980px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.one-third {
+  width: 33%;
+  height: 300px;
+  position: relative;
+  display: inline-block;
+
+}
+
+.flip {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: 0;
+}
+
+.one-fifth {
+  position:absolute;
+  bottom: 0;
+  display: inline-block;
+  width: 20%;
+  height:65px;
+  margin: auto;
+  border: solid rgb(128, 186, 230) 2px;
+}
+
+.second {
+  left: 20%;
+}
+
+.third {
+  left: 40%;
+}
+
+.fourth {
+  left: 60%;
+}
+
+.last {
+  right: 0;
+}
